@@ -1,4 +1,4 @@
-FROM hshar/website
+FROM hshar/webapp
 
 RUN rm -f /var/www/html/index.html
 
