@@ -1,4 +1,4 @@
-FROM cheungm1/hello-world cheungm1/Baptist011!
+FROM hshar/website
 
 RUN rm -f /var/www/html/index.html
 
