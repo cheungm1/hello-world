@@ -1,4 +1,4 @@
-FROM hshar/webapp
+FROM cheungm1/hello-world
 
 RUN rm -f /var/www/html/index.html
 
